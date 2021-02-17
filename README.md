@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dadzie101
+- 👋 Hi, I’m Patrick Fiifi Dadzie
 - 👀 I’m interested in computer network security and infrastructure
 - 🌱 I’m currently into blockchain development
 - 💞️ I’m looking to collaborate on any project 
