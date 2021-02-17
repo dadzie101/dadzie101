@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dadzie101
 - 👀 I’m interested in computer network security and infrastructure
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently into blockchain development
+- 💞️ I’m looking to collaborate on any project 
 - 📫 mail me : dadzie101@yahoo.com
 
 <!---
